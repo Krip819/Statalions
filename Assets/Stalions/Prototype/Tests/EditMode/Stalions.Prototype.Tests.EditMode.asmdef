@@ -1,0 +1,21 @@
+{
+  "name": "Stalions.Prototype.Tests.EditMode",
+  "rootNamespace": "Stalions.Prototype.Tests",
+  "references": [
+    "Stalions.Prototype.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
